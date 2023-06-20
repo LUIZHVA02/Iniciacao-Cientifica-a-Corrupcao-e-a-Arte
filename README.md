@@ -1,2 +1,1 @@
-# CELERON-01
-# CELERON-01
+# Iniciação Científica - a Corrupção e a Arte
